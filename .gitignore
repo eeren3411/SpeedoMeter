@@ -1,0 +1,7 @@
+**/__pycache__/**
+**/*.mp4
+**/*.png
+SpeedoMeter/weights/*.pt
+SpeedoMeter/results.txt
+**/test.txt
+**/test.py
